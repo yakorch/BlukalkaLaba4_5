@@ -7,8 +7,8 @@ Supports inputs from a user, with given possible options.
 
 Gives user information about the current state of affairs by printing.
 
-Written classes in game.py:
-    Room -  supports linking between rooms and giving the room info;                
+Written classes in game.py:                 
+    Room -  supports linking between rooms and giving the room info;                              
     Character - basic class for living creatures to be inherited;               
     Enemy(Character) - has weakness, can talk and fight;            
     Friend(Character) -  shell for friendly classes;                
